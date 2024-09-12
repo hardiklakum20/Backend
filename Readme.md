@@ -1,3 +1,3 @@
 # Backend series 
 
-BAckend with JavaScript
+Backend with JavaScript
